@@ -1,0 +1,258 @@
+/*
+194,65,45 orange
+209,170,52 yellow 
+167,168,68 green
+164,101,131 light purple
+90,30,74 dark purple
+
+yellow + dark purple 5.5
+green + dark purple 4.8
+
+
+*/
+.navbar-default,.navbar{
+	background-color:#393939 !important;
+	color:#289d83 !important;
+	margin-bottom:0px;
+}
+.reverse{
+color:#393939 !important;
+background-color:#289d83 !important;
+border:1px solid rgb(167,168,68);
+}
+.padtop
+{
+	padding-top:25px;
+}
+
+a{
+	color:#289d83;
+
+}
+.background
+{
+	background-color:white !important;
+}
+#masthead{
+	margin-top: 20px;
+	font-size: 60px;
+	color:#289d83;
+}
+.main{
+	background-color:white;
+}
+.nav{
+	background-color:#393939 !important;
+}
+.btn-inverse
+{
+	background-color:#6e6e6e;
+	color:white;
+	border-color:white;
+}
+.field{
+	
+  border-radius:3px;
+  border-color:#289d83;
+  color: #555555;
+  display: inline-block;
+  height: 86px;
+  line-height: 18px;
+  margin-top: 9px;
+  padding: 4px;
+  width: 150%;
+}
+h2,h3,h4,h5,h6
+{
+	color:#289d83;
+	font-family: 'ABeeZee', sans-serif;
+	margin: 5px;
+	padding: 5px;
+}
+
+p{
+	font-size:22px;
+	color:#393939;
+
+	padding:12px;
+	margin:3px;
+	font-family: 'Cutive', serif;
+}
+body{
+	background-color: white;
+}
+li:hover{
+	background-color: #6e6e6e;
+}
+li{
+	border-bottom-color:#6e6e6e;
+}
+
+ul
+{
+	border-color: #289d83;
+	border-bottom: solid #289d83 2px;
+}
+
+ul.nav a:hover {
+	background-color:#393939; 
+	border-top-color:#6e6e6e;
+	border-left-color:#393939;
+	border-right-color:#393939;
+	border-bottom-color:rgb(167,168,68);
+	color:#289d83 !important;
+	font-size: 150%;
+}
+
+ul.nav a.red{
+	background-color:white !important;
+	border-bottom: solid white 1px !important;
+}
+ul.nav a
+{
+	border-bottom-color:rgb(167,168,68) !important;
+}
+/*
+194,65,45 orange
+209,170,52 yellow 
+167,168,68 green
+164,101,131 light purple
+90,30,74 dark purple
+*/
+a.red h3{
+	color: #6e6e6e !important;
+}
+p a{
+	color:#393939;
+}
+h2{
+background-color: #393939;
+border-top:1px #6e6e6e solid;
+border-left:1px #6e6e6e solid;
+}
+h1 a, h1{
+	color:#393939;
+	font-family: 'ABeeZee', sans-serif;
+	font-weight:bold;
+	
+}	
+.nav-tabs{
+	background-color:#393939;
+}
+li.active a{
+	border-color:white !important;
+	color:red;
+}
+textarea{
+	color: white;
+}
+input.input-lg,input.input,textarea.input-lg,h2:hover{
+	background-color:#289d83 !important;
+	color:white !important;
+	border-color:#289d83;
+}
+.inner{
+	border-color:#393939 !important;
+	border-width: 1px;
+}
+
+.marginleft{
+	margin-left:10px;
+}
+
+.margintop{
+	margin-top:10px;
+	margin-right:5px;
+}
+.smalltext{
+	font-size:10px; 
+}
+
+
+.btn_micro{
+color:white;
+background-color: #289d83;
+border-color: #393939;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default{
+color: white;
+background-color: #0d58a6;
+border-color: #6e6e6e;
+}
+.btn .active{
+	background-color: #6e6e6e;
+	color:white;
+	border-color:white;
+}
+/*
+194,65,45 orange
+209,170,52 yellow 
+167,168,68 green
+164,101,131 light purple
+90,30,74 dark purple
+*/
+.btn{
+background-color: #289d83;
+border-color: #289d83;
+color:white;
+font-family: 'ABeeZee', sans-serif;
+}
+
+.margin{
+	margin:3px;
+}
+.btn-group{
+	margin-top:3px;
+}
+
+*::-webkit-input-placeholder {
+    color: white;
+}    
+*:-moz-placeholder {
+    /* FF 4-18 */
+    color: white;
+}
+*::-moz-placeholder {
+    /* FF 19+ */
+    color: white;
+}    
+*:-ms-input-placeholder {
+    /* IE 10+ */
+    color: white;
+}
+
+form .placeholder {
+   color: white;
+   font-size: 25px;
+   /* etc */
+}
+button a{
+	color:white;
+}
+textarea:focus, input[type="text"]:focus, input[type="password"]:focus,
+ input[type="datetime"]:focus, input[type="datetime-local"]:focus,
+  input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus,
+   input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus,
+    input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus,
+     input[type="color"]:focus, .uneditable-input:focus {   
+border-color:white;
+box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(126, 239, 104, 0.6);
+outline: 0 none;}
+
+input::-webkit-input-placeholder,textarea::-webkit-input-placeholder {
+color:white !important;
+
+}
+.button_small{
+	background:#6e6e6e;
+	border-color:rgb(167,168,68);
+	color:white;
+}
+/*
+194,65,45 orange
+209,170,52 yellow 
+167,168,68 green
+164,101,131 light purple
+90,30,74 dark purple
+*/
